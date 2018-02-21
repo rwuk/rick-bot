@@ -3,7 +3,7 @@ from twython import Twython
 import random
 import time
 
-while 10 == 10:
+while True:
 
     from auth import (
         consumer_key,
